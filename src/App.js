@@ -6,6 +6,7 @@ function App() {
   // Function to handle button click
   const increment = () => {
     setCount(count + 1);
+    setCount(count + 1);
   };
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
